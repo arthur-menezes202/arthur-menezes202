@@ -15,7 +15,7 @@
             <p>e-mail:arthurmcorrea282@gmail.com</p>
             <a href="https://www.instagram.com/arthur_colinel/"><img src="/imagens/instagram-logo.png" width="50px" alt="instagram-logo"></a>
             <a href="https://www.facebook.com/arthur.correa.33449/"><img src="/imagens/logo-face.png" width="70px" alt="logo-face"></a>
-            <a href="https://twitter.com/Arthur_culineu"><img src="/imagens/twitter-logo-9.png" width="50px" alt="twitter-logo"></a>
+            <a href="https://www.linkedin.com/in/arthur-menezes-correa/"><img src="https://li.ctcdn.com.br/empresas/4142.400.jpg" width="50px" alt="twitter-logo"></a>
             <p>PS:as minhas redes sociais não apresentao fotos ou publicações</p>
         </nav>
     </article>
