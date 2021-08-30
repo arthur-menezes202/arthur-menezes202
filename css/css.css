@@ -4,4 +4,13 @@ body {
 
 .flexBox {
     display: flex;
+    margin: 5%;
+}
+
+.japao {
+    width: 400px;
+}
+
+.img {
+    width: 100px
 }
