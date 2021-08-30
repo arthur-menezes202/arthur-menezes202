@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="./css/css.css" media="screen" />
 </head>
-<body>
+<body background="whith" >
     <header>
       <h1>Olá, eu sou Arthur Menezes</h1>
       <p>estudante de desenvolvimento web ful stack na Trybe</p>
