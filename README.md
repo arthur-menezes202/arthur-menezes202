@@ -55,6 +55,8 @@
               <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="mysql" width="40" height="40"/>
               <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" alt="mongodb" width="40" height="40"/>
               <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
+               <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetbootstrap.com.br%2F&psig=AOvVaw1BDaSGwIjZUD2DmsQHHGX3&ust=1630417956540000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjxp6zy2PICFQAAAAAdAAAAABAD" alt="boodstrap" width="40" height="40"/>
+               <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmaterial-ui.com%2Fstatic%2Flogo_raw.svg&imgrefurl=https%3A%2F%2Fmaterial-ui.com%2Fpt%2F&tbnid=C3mJ-rUWWPNuZM&vet=12ahUKEwjF9oa78tjyAhXOlpUCHUG4AIIQMygBegUIARC1AQ..i&docid=3CHb-sciAHzBhM&w=800&h=635&q=material%20ui&ved=2ahUKEwjF9oa78tjyAhXOlpUCHUG4AIIQMygBegUIARC1AQ" alt="material ui" width="40" height="40"/>
               </p>
         </section>
         <nav background="whith">
