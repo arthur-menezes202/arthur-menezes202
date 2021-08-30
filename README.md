@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="./css/css.css" media="screen" />
 </head>
-<body background="whith" >
+<body>
     <header>
       <h1>Olá, eu sou Arthur Menezes</h1>
       <p>estudante de desenvolvimento web ful stack na Trybe</p>
@@ -35,23 +35,23 @@
                       <li>Games: adoro jogar um jogo para relaxar</li>
                       <li>Conversar com diferentes pessoas: é sempre muito bom conversar sobre diferentes assuntos com pessoas que nunca vi, assim consigo ter uma visão diferente sobre vários assuntos.</li>
                   </ul>
-                     <img src="/imagens/japao.jpg" class="japao" alt="templos no japão">
+                     <img src="/imagens/japao.jpg" width= "300px" alt="templos no japão">
                  </div>
         </span>
         </section>
         <section>
             <h2>tecnologias que mais conheço</h2>
-            <img src="/imagens/react.png" class="img" alt="react">
+            <img src="/imagens/react.png" width= "100px" alt="react">
             <img src="/imagens/htmlCssJs.jpg" width="200" class="" alt="html css js">
-            <img src="/imagens/jest.png" width="50px" class="img" alt="jest">
-            <img src="/imagens/redux.png" class="img" alt="redux">
+            <img src="/imagens/jest.png" width="50px" width= "100px" alt="jest">
+            <img src="/imagens/redux.png" width= "100px" alt="redux">
             <h2>aprendendo no momento</h2>
-            <img src="/imagens/node.png" class="img" alt="node">
-            <img src="/imagens/mongo.png" width="50px" class="img" alt="mongo">
-            <img src="/imagens/bootstrap.png" class="img" alt="node">
-            <img src="/imagens/materialUi.png" class="img" alt="node">
+            <img src="/imagens/node.png" width= "100px" alt="node">
+            <img src="/imagens/mongo.png" width="50px" width= "100px" alt="mongo">
+            <img src="/imagens/bootstrap.png" width= "100px" alt="node">
+            <img src="/imagens/materialUi.png" width= "100px" alt="node">
         </section>
-        <nav>
+        <nav background="whith">
             <h2>contatos</h2>
             <p>e-mail:arthurmcorrea282@gmail.com</p>
             <a href="https://www.instagram.com/arthur_colinel/"><img src="/imagens/instagram-logo.png" width="50px" alt="instagram-logo"></a>
