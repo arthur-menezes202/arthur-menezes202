@@ -41,9 +41,19 @@
         </section>
         <section>
             <h2>tecnologias que mais conheço</h2>
-            <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="40" height="40"/>
+              <p align="left">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-sharp-2-569585.png" alt="csharp" width="40" height="40"/>
   <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" alt="redux" width="40" height="40"/>
+  <img src="https://mauriciomikulski.github.io/img/logos/html.png" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" alt="mongodb" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
+</p>
             <h2>aprendendo no momento</h2>
             <img src="/imagens/node.png" width= "100px" alt="node" height="40">
             <img src="/imagens/mongo.png" width="50px" width= "100px" alt="mongo" height="40">
