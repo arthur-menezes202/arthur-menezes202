@@ -41,15 +41,15 @@
         </section>
         <section>
             <h2>tecnologias que mais conheço</h2>
-            <img src="/imagens/react.png" width= "100px" alt="react">
-            <img src="/imagens/htmlCssJs.jpg" width="200" class="" alt="html css js">
-            <img src="/imagens/jest.png" width="50px" width= "100px" alt="jest">
-            <img src="/imagens/redux.png" width= "100px" alt="redux">
+            <img src="/imagens/react.png" width= "100px" alt="react" height="40">
+            <img src="/imagens/htmlCssJs.jpg" width="200" class="" alt="html css js" height="40">
+            <img src="/imagens/jest.png" width="50px" width= "100px" alt="jest" height="40">
+            <img src="/imagens/redux.png" width= "100px" alt="redux" height="40">
             <h2>aprendendo no momento</h2>
-            <img src="/imagens/node.png" width= "100px" alt="node">
-            <img src="/imagens/mongo.png" width="50px" width= "100px" alt="mongo">
-            <img src="/imagens/bootstrap.png" width= "100px" alt="node">
-            <img src="/imagens/materialUi.png" width= "100px" alt="node">
+            <img src="/imagens/node.png" width= "100px" alt="node" height="40">
+            <img src="/imagens/mongo.png" width="50px" width= "100px" alt="mongo" height="40">
+            <img src="/imagens/bootstrap.png" width= "100px" alt="node" height="40">
+            <img src="/imagens/materialUi.png" width= "100px" alt="node" height="40">
         </section>
         <nav background="whith">
             <h2>contatos</h2>
