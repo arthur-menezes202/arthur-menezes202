@@ -29,13 +29,12 @@
               Meus Hobbs
           </h2>
           <span>
-                <div class="flexBox">
+                <div>
                   <ul>
                       <li>Japão: cultura animes e mangas, gosto de tudo</li>
                       <li>Games: adoro jogar um jogo para relaxar</li>
                       <li>Conversar com diferentes pessoas: é sempre muito bom conversar sobre diferentes assuntos com pessoas que nunca vi, assim consigo ter uma visão diferente sobre vários assuntos.</li>
                   </ul>
-                     <img src="/imagens/japao.jpg" width= "300px" alt="templos no japão">
                  </div>
         </span>
         </section>
@@ -62,9 +61,8 @@
         <nav background="whith">
             <h2>contatos</h2>
             <p>e-mail:arthurmcorrea282@gmail.com</p>
-            <a href="https://www.instagram.com/arthur_colinel/"><img src="/imagens/instagram-logo.png" width="50px" alt="instagram-logo"></a>
-            <a href="https://www.facebook.com/arthur.correa.33449/"><img src="/imagens/logo-face.png" width="70px" alt="logo-face"></a>
-            <a href="https://www.linkedin.com/in/arthur-menezes-correa/"><img src="/imagens/linkedin.png" width="50px" alt="twitter-logo"></a>
+            <a href="https://www.instagram.com/arthur_colinel/"><img src="https://desafiosdaeducacao.grupoa.com.br/wp-content/uploads/2017/07/instagram-1581266_960_720.jpg" width="50px" alt="instagram-logo"></a>
+            <a href="https://www.linkedin.com/in/arthur-menezes-correa/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50px" alt="linkedin-logo"></a>
             <p>PS:as minhas redes sociais não apresentao fotos ou publicações</p>
         </nav>
     </article>
