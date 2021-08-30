@@ -41,10 +41,9 @@
         </section>
         <section>
             <h2>tecnologias que mais conheço</h2>
-            <img src="/imagens/react.png" width= "100px" alt="react" height="40">
-            <img src="/imagens/htmlCssJs.jpg" width="200" class="" alt="html css js" height="40">
-            <img src="/imagens/jest.png" width="50px" width= "100px" alt="jest" height="40">
-            <img src="/imagens/redux.png" width= "100px" alt="redux" height="40">
+            <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/c-sharp-2-569585.png" alt="csharp" width="40" height="40"/>
+  <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" height="40"/>
             <h2>aprendendo no momento</h2>
             <img src="/imagens/node.png" width= "100px" alt="node" height="40">
             <img src="/imagens/mongo.png" width="50px" width= "100px" alt="mongo" height="40">
