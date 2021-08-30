@@ -24,7 +24,6 @@
             </p>
             <p>
                 Não tenho experiencia de trabalho, visto que nunca trabalhei, apenas ajudando a família em coisas mais simples, como arrumar algo quebrado ou ajudar carregando algum peso.
-
             </p>
           </span>
           <h2>
@@ -39,8 +38,6 @@
                   </ul>
                      <img src="/imagens/japao.jpg" class="japao" alt="templos no japão">
                  </div>
-                
-        
         </span>
         </section>
         <section>
