@@ -56,7 +56,7 @@
               <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" alt="mongodb" width="40" height="40"/>
               <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
                <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" alt="boodstrap" width="40" height="40"/>
-               <img src="https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png" alt="material ui" width="50" height="70"/>
+               <img src="https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png" alt="material ui" width="70" height="50"/>
               </p>
         </section>
         <nav background="whith">
