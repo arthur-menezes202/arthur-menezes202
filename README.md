@@ -19,7 +19,7 @@
                 Minha carreira na área de desenviolamento web começou em fevereiro 2019, iniciei um curso técnico de desenvolvimento web no CEFET-MG, neste curso aprendi o básico de como desenvolver um site, mas, o curso era muito parado, com conteúdos um pouco desnecessários. Depois de alguns meses de pandemia, tomei a maior decisão da minha vida, iniciar um curso de desenvolvimento web na Trybe, geralmente, quando vou tomar alguma decisão, gosto de pensar em todas as alternativas, desde a mais lógica ate a mais louca, infelizmente, acabei saindo do CEFET-MG, pois com a Trybe, tudo ficaria mais difícil.
             </p>
             <p>
-                Hoje, em me orgulho de dizer que sou um Tryber, estou na mesma turma que comecei,  turma-10-tribo-b, a previsão de formatura é  em fevereiro de 2022, quando esse dia chegar, eu nem que louca vou fazer para comemorar.
+                Hoje, em me orgulho de dizer que sou um Tryber, estou na mesma turma que comecei,  turma-10-tribo-b, a previsão de formatura é  em fevereiro de 2022, quando esse dia chegar, eu nem que ser louca vou fazer para comemorar.
             </p>
             <p>
                 Não tenho experiencia de trabalho, visto que nunca trabalhei, apenas ajudando a família em coisas mais simples, como arrumar algo quebrado ou ajudar carregando algum peso.
@@ -63,7 +63,7 @@
             <p>e-mail:arthurmcorrea282@gmail.com</p>
             <a href="https://www.instagram.com/arthur_colinel/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" width="50px" alt="instagram-logo"></a>
             <a href="https://www.linkedin.com/in/arthur-menezes-correa/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50px" alt="linkedin-logo"></a>
-            <p>PS:as minhas redes sociais não apresentao fotos ou publicações</p>
+            <p>PS:as minhas redes sociais não apresentão fotos ou publicações</p>
         </nav>
     </article>
 </body>
