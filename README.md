@@ -61,7 +61,7 @@
         <nav background="whith">
             <h2>contatos</h2>
             <p>e-mail:arthurmcorrea282@gmail.com</p>
-            <a href="https://www.instagram.com/arthur_colinel/"><img src="https://desafiosdaeducacao.grupoa.com.br/wp-content/uploads/2017/07/instagram-1581266_960_720.jpg" width="50px" alt="instagram-logo"></a>
+            <a href="https://www.instagram.com/arthur_colinel/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" width="50px" alt="instagram-logo"></a>
             <a href="https://www.linkedin.com/in/arthur-menezes-correa/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50px" alt="linkedin-logo"></a>
             <p>PS:as minhas redes sociais não apresentao fotos ou publicações</p>
         </nav>
