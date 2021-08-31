@@ -16,7 +16,7 @@
           <h2>minha historia</h2>
           <span>
             <p>
-                Minha carreira na área de desenviolamento web começou em fevereiro 2019, iniciei um curso técnico de desenvolvimento web no CEFET-MG, neste curso aprendi o básico de como desenvolver um site, mas, o curso era muito parado, com conteúdos um pouco desnecessários. Depois de alguns meses de pandemia, tomei a maior decisão da minha vida, iniciar um curso de desenvolvimento web na Trybe, geralmente, quando vou tomar alguma decisão, gosto de pensar em todas as alternativas, desde a mais lógica ate a mais louca, infelizmente, acabei saindo do CEFET-MG, pois com a Trybe, tudo ficaria mais difícil.
+                Minha carreira na área de desenvolvimento web começou em fevereiro 2019, iniciei um curso técnico de desenvolvimento web no CEFET-MG, neste curso aprendi o básico de como desenvolver um site, mas, o curso era muito parado, com conteúdos um pouco desnecessários. Depois de alguns meses de pandemia, tomei a maior decisão da minha vida, iniciar um curso de desenvolvimento web na Trybe, geralmente, quando vou tomar alguma decisão, gosto de pensar em todas as alternativas, desde a mais lógica ate a mais louca, infelizmente, acabei saindo do CEFET-MG, pois com a Trybe, tudo ficaria mais difícil.
             </p>
             <p>
                 Hoje, em me orgulho de dizer que sou um Tryber, estou na mesma turma que comecei,  turma-10-tribo-b, a previsão de formatura é  em fevereiro de 2022, quando esse dia chegar, eu não sei que louca vou fazer para comemorar.
