@@ -65,6 +65,9 @@
             <a href="https://www.linkedin.com/in/arthur-menezes-correa/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50px" alt="linkedin-logo"></a>
             <p>PS:as minhas redes sociais não apresentão fotos ou publicações</p>
         </nav>
+        <span>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-menezes202&show_icons=true" alt="Arthur Menezes" /></p>
+        </span>
     </article>
 </body>
 </html>
