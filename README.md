@@ -1,73 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="./css/css.css" media="screen" />
-</head>
-<body>
-    <header>
-      <h1>Olá, eu sou Arthur Menezes</h1>
-      <p>estudante de desenvolvimento web ful stack na Trybe</p>
-    </header>
-    <article>
-        <section>
-          <h2>minha historia</h2>
-          <span>
-            <p>
-                Minha carreira na área de desenvolvimento web começou em fevereiro 2019, iniciei um curso técnico de desenvolvimento web no CEFET-MG, neste curso aprendi o básico de como desenvolver um site, mas, o curso era muito parado, com conteúdos um pouco desnecessários. Depois de alguns meses de pandemia, tomei a maior decisão da minha vida, iniciar um curso de desenvolvimento web na Trybe, geralmente, quando vou tomar alguma decisão, gosto de pensar em todas as alternativas, desde a mais lógica ate a mais louca, infelizmente, acabei saindo do CEFET-MG, pois com a Trybe, tudo ficaria mais difícil.
-            </p>
-            <p>
-                Hoje, em me orgulho de dizer que sou um Tryber, estou na mesma turma que comecei,  turma-10-tribo-b, a previsão de formatura é  em fevereiro de 2022, quando esse dia chegar, eu não sei que loucura vou fazer para comemorar.
-            </p>
-            <p>
-                Não tenho experiencia de trabalho, visto que nunca trabalhei, apenas ajudando a família em coisas mais simples, como arrumar algo quebrado ou ajudar carregando algum peso.
-            </p>
-          </span>
-          <h2>
-              Meus Hobbs
-          </h2>
-          <span>
-                <div>
-                  <ul>
-                      <li>Japão: cultura animes e mangas, gosto de tudo</li>
-                      <li>Games: adoro jogar um jogo para relaxar</li>
-                      <li>Conversar com diferentes pessoas: é sempre muito bom conversar sobre diferentes assuntos com pessoas que nunca vi, assim consigo ter uma visão diferente sobre vários assuntos.</li>
-                  </ul>
-                 </div>
-        </span>
-        </section>
-        <section>
-            <h2>tecnologias que mais conheço</h2>
-              <p align="left">
-              <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="40" height="40"/>
-              <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" height="40"/>
-              <img src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" alt="redux" width="40" height="40"/>
-              <img src="https://mauriciomikulski.github.io/img/logos/html.png" alt="html5" width="40" height="40"/>
-              <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="40" height="40"/>
-              <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-              <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-</p>
-            <h2>aprendendo no momento</h2>
-            <p align="left">
-              <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" alt="mysql" width="40" height="40"/>
-              <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" alt="mongodb" width="40" height="40"/>
-              <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
-               <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" alt="boodstrap" width="40" height="40"/>
-               <img src="https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png" alt="material ui" width="70" height="50"/>
-              </p>
-        </section>
-        <nav background="whith">
-            <h2>contatos</h2>
-            <p>e-mail:arthurmcorrea282@gmail.com</p>
-            <a href="https://www.instagram.com/arthur_colinel/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" width="50px" alt="instagram-logo"></a>
-            <a href="https://www.linkedin.com/in/arthur-menezes-correa/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="50px" alt="linkedin-logo"></a>
-            <p>PS:as minhas redes sociais não apresentão fotos ou publicações</p>
-        </nav>
-        <span>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-menezes202&show_icons=true" alt="Arthur Menezes" /></p>
-        </span>
-    </article>
-</body>
-</html>
+# Ola, eu sou Arthur Menezes <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+## I'm a Computer Science and Engineering Student  
+
+- 📚 estou contantimente estudando tecnologias de desenvolvimento web Full Stack 😅
+- 💪🏼 Minhas metas: prentendo fazer graduação em alguma area da tecnologia, como engenharia de sofware ou de sistemas.
+- ⚡ Curiosidade: Adoro desenhos pixelados.
+
+---
+
+### Contato 📝
+
+[<img align="left" alt="arthur menezes | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://pulpo-site-3tduojw3tlwg6yqrnax.netdna-ssl.com/wp-content/uploads/2017/01/Logo_URI-300x191.png" />][Beecrowd]
+
+<br />
+
+---
+
+### Linguagens e Ferramentas🛠 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+
+<br/>
+
+---
+
+<img align="left" width="520" src="https://github-readme-stats.vercel.app/api?username=arthur-menezes202&show_icons=true" alt="Arthur Menezes" />
+<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-menezes202" alt="Arthur Menezes" />
+
+[Beecrowd]: https://www.beecrowd.com.br/judge/pt/profile/372321
+[linkedin]: https://www.linkedin.com/in/arthur-m-correa
