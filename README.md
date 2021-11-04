@@ -4,7 +4,7 @@
 
 ## Estudante de Desenvolvimento Web Full Stack
 
-- 📚 estou constantemente estudando tecnologias de desenvolvimento web Full Stack 😅.
+- 📚 Estou constantemente estudando tecnologias de desenvolvimento web Full Stack 😅.
 - 💪🏼 Minhas metas: pretendo fazer graduação em alguma área da tecnologia, como engenharia de software ou de sistemas.
 - ⚡ Curiosidade: Adoro desenhos pixelados.
 
@@ -38,8 +38,8 @@
 
 ---
 
-<img align="left" width="520" src="https://github-readme-stats.vercel.app/api?username=arthur-menezes202&show_icons=true" alt="Arthur Menezes" />
-<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-menezes202" alt="Arthur Menezes" />
+<img align="left" width="490" src="https://github-readme-stats.vercel.app/api?username=arthur-menezes202&show_icons=true" alt="Arthur Menezes" />
+<img align="left" width="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-menezes202" alt="Arthur Menezes" />
 
 [Beecrowd]: https://www.beecrowd.com.br/judge/pt/profile/372321
 [linkedin]: https://www.linkedin.com/in/arthur-m-correa
