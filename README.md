@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## Estudante de Desenvolvimento Web Full Stack
 
-- 📚 estou contantimente estudando tecnologias de desenvolvimento web Full Stack 😅
-- 💪🏼 Minhas metas: prentendo fazer graduação em alguma area da tecnologia, como engenharia de sofware ou de sistemas.
+- 📚 estou constantemente estudando tecnologias de desenvolvimento web Full Stack 😅.
+- 💪🏼 Minhas metas: pretendo fazer graduação em alguma área da tecnologia, como engenharia de software ou de sistemas.
 - ⚡ Curiosidade: Adoro desenhos pixelados.
 
 ---
