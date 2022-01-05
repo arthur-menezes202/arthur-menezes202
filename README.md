@@ -34,7 +34,10 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
+
 <br/>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=grfdlcj48h6al66f3xeb2s7pr)
 
 ---
 
