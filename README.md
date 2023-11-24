@@ -1,11 +1,10 @@
 # Ola, eu sou Arthur Menezes <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Estudante de Desenvolvimento Web Full Stack
+## Desenvolvedor Web Full Stack
 
-- 📚 Estou constantemente estudando tecnologias de desenvolvimento web Full Stack 😅.
-- 💪🏼 Minhas metas: pretendo fazer graduação em alguma área da tecnologia, como engenharia de software ou de sistemas.
+- 📚 Estou constantemente estudando tecnologias de desenvolvimento web Full Stack.
+- 💪🏼 Minhas metas: pretendo fazer graduação em alguma área da tecnologia, como engenharia de software ou de ciência da computação.
 - ⚡ Curiosidade: Adoro desenhos pixelados.
 
 ---
